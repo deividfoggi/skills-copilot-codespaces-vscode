@@ -1,4 +1,4 @@
-// Create a web server using express that listens on port 80
+// Create a web server
 
 // Import the express module
 const express = require('express');
